@@ -30,6 +30,7 @@ https://www.tutorialspoint.com/dbms/er_model_basic_concepts.htm
      
      
     3)Relationships
+        1) one to one  1:1 relationship
     
     
 
