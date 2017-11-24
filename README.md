@@ -2,8 +2,7 @@
 
 ## introduction to DBMS
     1)Data
-    2)DataBase
-      Dataware & Dataware
+    2)DataBase & Dataware
     3)DataBase Management System
     4)DataBase Systems.
 
