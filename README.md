@@ -1,6 +1,6 @@
 # DBMS-Data-Base-Management-System
 
-#introduction to DBMS
+## introduction to DBMS
     1)Data
     2)DataBase
       Dataware
